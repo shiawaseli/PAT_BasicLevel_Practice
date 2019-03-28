@@ -24,5 +24,14 @@
     <ClCompile Include="1003_我要通过.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1004_成绩排名.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1005_继续(3n+1)猜想.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1006_换个格式输出整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

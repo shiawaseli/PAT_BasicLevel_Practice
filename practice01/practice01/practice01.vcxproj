@@ -118,6 +118,9 @@
     <ClCompile Include="1001_害死人不偿命的(3n+1)猜想.c" />
     <ClCompile Include="1002_写出这个数.c" />
     <ClCompile Include="1003_我要通过.c" />
+    <ClCompile Include="1004_成绩排名.c" />
+    <ClCompile Include="1005_继续(3n+1)猜想.c" />
+    <ClCompile Include="1006_换个格式输出整数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

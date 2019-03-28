@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main3()
 {
 	int i, j, n, flag;
 	int left, mid, right;
