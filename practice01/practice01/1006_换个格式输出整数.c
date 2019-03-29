@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main6()
 {
 	int i, j, n, a[3], input;
 	

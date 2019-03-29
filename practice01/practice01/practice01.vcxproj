@@ -121,6 +121,9 @@
     <ClCompile Include="1004_成绩排名.c" />
     <ClCompile Include="1005_继续(3n+1)猜想.c" />
     <ClCompile Include="1006_换个格式输出整数.c" />
+    <ClCompile Include="1007_素数对猜想.c" />
+    <ClCompile Include="1008_数组元素循环右移问题.c" />
+    <ClCompile Include="1009_说反话.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
