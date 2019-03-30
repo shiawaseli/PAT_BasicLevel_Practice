@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main9()
 {
 	int i = 0, j = 0;
 	char input[80][80];

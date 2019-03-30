@@ -124,6 +124,7 @@
     <ClCompile Include="1007_素数对猜想.c" />
     <ClCompile Include="1008_数组元素循环右移问题.c" />
     <ClCompile Include="1009_说反话.c" />
+    <ClCompile Include="1010_一元多项式求导.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
