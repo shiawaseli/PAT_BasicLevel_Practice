@@ -21,5 +21,14 @@
     <ClCompile Include="1012_数字分类.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1013_数素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1014_福尔摩斯的约会.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1015_德才论.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

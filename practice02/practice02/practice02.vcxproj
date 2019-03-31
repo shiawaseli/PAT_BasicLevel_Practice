@@ -117,6 +117,9 @@
   <ItemGroup>
     <ClCompile Include="1011_A+B和C.c" />
     <ClCompile Include="1012_数字分类.c" />
+    <ClCompile Include="1013_数素数.c" />
+    <ClCompile Include="1014_福尔摩斯的约会.c" />
+    <ClCompile Include="1015_德才论.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

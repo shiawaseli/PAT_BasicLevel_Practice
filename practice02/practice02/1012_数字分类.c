@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main2()
 {
 	int i, j, n, flag = 0, input, a[5] = { 0 };
 	scanf("%d", &n);
