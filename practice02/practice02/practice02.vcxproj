@@ -120,6 +120,9 @@
     <ClCompile Include="1013_数素数.c" />
     <ClCompile Include="1014_福尔摩斯的约会.c" />
     <ClCompile Include="1015_德才论.c" />
+    <ClCompile Include="1016_部分A+B.c" />
+    <ClCompile Include="1017_A除以B.c" />
+    <ClCompile Include="1018_锤子剪刀布.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

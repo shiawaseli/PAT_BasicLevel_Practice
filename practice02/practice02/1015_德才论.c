@@ -11,7 +11,7 @@ typedef struct
 	int total;
 }Stu;
 
-int main()
+int main5()
 {
 	int i, j, k, n, line1, line2;
 	Stu *pstu, tmp;
