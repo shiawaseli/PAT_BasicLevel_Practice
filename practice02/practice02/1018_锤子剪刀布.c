@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main8()
 {
 	int i = 0, j = 0, k = 0;
 	int num, win = 0, draw = 0, lose = 0;

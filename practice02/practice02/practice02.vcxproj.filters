@@ -39,5 +39,11 @@
     <ClCompile Include="1018_锤子剪刀布.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1019_数字黑洞.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1020_月饼.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
