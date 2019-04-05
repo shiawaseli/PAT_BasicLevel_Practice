@@ -116,6 +116,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1021_个位数统计.c" />
+    <ClCompile Include="1022_D进制的A+B.c" />
+    <ClCompile Include="1023_组个最小数.c" />
+    <ClCompile Include="1024_科学计数法.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

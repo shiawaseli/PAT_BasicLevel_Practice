@@ -1,2 +1,3 @@
-﻿  1021_个位数统计.c
+﻿  1024_科学计数法.c
+c:\users\10142\source\repos\pat_basiclevel_practice(中文)\practice03\practice03\1024_科学计数法.c(11): warning C4013: “strlen”未定义；假设外部返回 int
   practice03.vcxproj -> C:\Users\10142\source\repos\PAT_BasicLevel_Practice(中文)\practice03\Debug\practice03.exe

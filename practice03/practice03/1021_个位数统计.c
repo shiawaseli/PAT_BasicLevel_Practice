@@ -4,7 +4,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-int main()
+int main1()
 {
 	int i, digit[10] = { 0 },len;
 	char input[1000];

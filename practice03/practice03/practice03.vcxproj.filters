@@ -18,5 +18,14 @@
     <ClCompile Include="1021_个位数统计.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1022_D进制的A+B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1023_组个最小数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1024_科学计数法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
