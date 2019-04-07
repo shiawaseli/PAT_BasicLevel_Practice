@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main4()
 {
 	char ch, input[10000] = { 0 }, output[10000] = { 0 };
 	int i, j, n, flag, exp;

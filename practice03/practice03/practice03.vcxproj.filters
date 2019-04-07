@@ -27,5 +27,14 @@
     <ClCompile Include="1024_科学计数法.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1025_ 反转链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1026_程序运行时间.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1027_打印沙漏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
