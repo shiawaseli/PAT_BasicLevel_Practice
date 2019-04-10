@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main7()
 {
 	int input, i = 1, j, k, n = 1, tmp;
 	char ch = '*';

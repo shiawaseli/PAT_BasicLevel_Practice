@@ -122,6 +122,9 @@
     <ClCompile Include="1025_ 反转链表.c" />
     <ClCompile Include="1026_程序运行时间.c" />
     <ClCompile Include="1027_打印沙漏.c" />
+    <ClCompile Include="1028_人口普查.c" />
+    <ClCompile Include="1029_旧键盘.c" />
+    <ClCompile Include="1030_完美数列.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
