@@ -1,3 +1,5 @@
-﻿  1020_月饼.c
+﻿  1015_德才论.c
+  1020_月饼.c
 c:\users\10142\source\repos\pat_basiclevel_practice(中文)\practice02\practice02\1020_月饼.c(53): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
   practice02.vcxproj -> C:\Users\10142\source\repos\PAT_BasicLevel_Practice(中文)\practice02\Debug\practice02.exe
