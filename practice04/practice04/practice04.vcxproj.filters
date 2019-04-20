@@ -24,5 +24,23 @@
     <ClCompile Include="1033_旧键盘打字.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1034_有理数四则运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1035_插入与归并%28X%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1036_跟奥巴马一起编程.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1037_在霍格沃茨找零钱.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1038_统计同成绩学生.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1039_到底买不买.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

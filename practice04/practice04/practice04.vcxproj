@@ -118,6 +118,12 @@
     <ClCompile Include="1031_查验身份证.c" />
     <ClCompile Include="1032_挖掘机技术哪家强.c" />
     <ClCompile Include="1033_旧键盘打字.c" />
+    <ClCompile Include="1034_有理数四则运算.c" />
+    <ClCompile Include="1035_插入与归并%28X%29.c" />
+    <ClCompile Include="1036_跟奥巴马一起编程.c" />
+    <ClCompile Include="1037_在霍格沃茨找零钱.c" />
+    <ClCompile Include="1038_统计同成绩学生.c" />
+    <ClCompile Include="1039_到底买不买.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

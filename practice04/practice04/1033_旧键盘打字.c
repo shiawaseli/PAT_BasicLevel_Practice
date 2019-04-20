@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main3()
 {
 	int i = 0, j = 0;
 	char broken[100000], aim[100000];
