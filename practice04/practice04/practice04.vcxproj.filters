@@ -42,5 +42,8 @@
     <ClCompile Include="1039_到底买不买.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1040_有几个PAT.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

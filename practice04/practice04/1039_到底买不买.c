@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main9()
 {
 	char input;
 	int i, n1, n2, num[126] = { 0 };

@@ -124,6 +124,7 @@
     <ClCompile Include="1037_在霍格沃茨找零钱.c" />
     <ClCompile Include="1038_统计同成绩学生.c" />
     <ClCompile Include="1039_到底买不买.c" />
+    <ClCompile Include="1040_有几个PAT.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
