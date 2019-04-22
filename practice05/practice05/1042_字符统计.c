@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main2()
 {
 	int max = 0;
 	int check[128] = { 0 };

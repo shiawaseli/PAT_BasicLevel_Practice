@@ -117,6 +117,9 @@
   <ItemGroup>
     <ClCompile Include="1041_考试座位号.c" />
     <ClCompile Include="1042_字符统计.c" />
+    <ClCompile Include="1043_输出PATest.c" />
+    <ClCompile Include="1044_火星数字.c" />
+    <ClCompile Include="1045_快速排序.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

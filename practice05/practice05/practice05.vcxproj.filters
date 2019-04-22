@@ -21,5 +21,14 @@
     <ClCompile Include="1042_字符统计.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1043_输出PATest.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1044_火星数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1045_快速排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
