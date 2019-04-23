@@ -8,7 +8,7 @@ int Cmp(const void* num1, const void* num2)
 	return (*(int*)num1 == *(int*)num2) ? 0 : (*(int*)num1 - *(int*)num2);
 }
 
-int main()
+int main5()
 {
 	int i, j, n, num[100005] = { 0 }, flag[100005] = { 0 };
 	int max, min;

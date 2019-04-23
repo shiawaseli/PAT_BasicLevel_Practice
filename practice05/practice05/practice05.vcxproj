@@ -120,6 +120,9 @@
     <ClCompile Include="1043_输出PATest.c" />
     <ClCompile Include="1044_火星数字.c" />
     <ClCompile Include="1045_快速排序.c" />
+    <ClCompile Include="1046_划拳.c" />
+    <ClCompile Include="1047_编程团体赛.c" />
+    <ClCompile Include="1048_数字加密.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
