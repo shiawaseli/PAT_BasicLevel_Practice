@@ -123,6 +123,8 @@
     <ClCompile Include="1046_划拳.c" />
     <ClCompile Include="1047_编程团体赛.c" />
     <ClCompile Include="1048_数字加密.c" />
+    <ClCompile Include="1049_数列的片段和.c" />
+    <ClCompile Include="1050_螺旋矩阵.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

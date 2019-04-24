@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int Cmp(const void* num1, const void* num2)
+int Cmp_int(const void* num1, const void* num2)
 {
 	return (*(int*)num1 == *(int*)num2) ? 0 : (*(int*)num1 - *(int*)num2);
 }
@@ -47,7 +47,7 @@ int main5()
 			j++;
 		}
 	}
-	qsort(num, j, sizeof(num[0]),Cmp);
+	qsort(num, j, sizeof(num[0]),Cmp_int);
 	printf("%d\n", j);
 	for (i = 0; i < j; i++)
 	{

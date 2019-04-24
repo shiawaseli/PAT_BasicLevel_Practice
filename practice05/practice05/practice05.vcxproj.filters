@@ -39,5 +39,11 @@
     <ClCompile Include="1048_数字加密.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1049_数列的片段和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1050_螺旋矩阵.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
