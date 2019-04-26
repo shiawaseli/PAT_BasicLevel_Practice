@@ -18,5 +18,14 @@
     <ClCompile Include="1051_复数乘法.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1052_卖个萌.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1053_住房空置率.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1054_求平均值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

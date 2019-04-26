@@ -116,6 +116,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1051_复数乘法.c" />
+    <ClCompile Include="1052_卖个萌.c" />
+    <ClCompile Include="1053_住房空置率.c" />
+    <ClCompile Include="1054_求平均值.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

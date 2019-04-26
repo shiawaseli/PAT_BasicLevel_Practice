@@ -4,7 +4,7 @@
 #include<math.h>
 #include<stdlib.h>
 
-int main()
+int main1()
 {
 	double R1, P1, R2, P2, real, image;
 
