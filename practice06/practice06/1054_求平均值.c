@@ -4,7 +4,7 @@
 #include <string.h>
 #include<stdlib.h>
 
-int main()
+int main4()
 {
 	int N, i, count = 0;
 	double num, sum = 0;

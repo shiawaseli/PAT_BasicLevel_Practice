@@ -119,6 +119,9 @@
     <ClCompile Include="1052_卖个萌.c" />
     <ClCompile Include="1053_住房空置率.c" />
     <ClCompile Include="1054_求平均值.c" />
+    <ClCompile Include="1055_集体照（X）.c" />
+    <ClCompile Include="1056_组合数的和.c" />
+    <ClCompile Include="1057_数零壹.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
