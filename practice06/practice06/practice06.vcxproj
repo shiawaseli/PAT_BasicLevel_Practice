@@ -122,6 +122,9 @@
     <ClCompile Include="1055_集体照（X）.c" />
     <ClCompile Include="1056_组合数的和.c" />
     <ClCompile Include="1057_数零壹.c" />
+    <ClCompile Include="1058_选择题.c" />
+    <ClCompile Include="1059_C语言竞赛.c" />
+    <ClCompile Include="1060_爱丁顿数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
