@@ -24,5 +24,11 @@
     <ClCompile Include="1063_计算谱半径.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1064_朋友数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_单身狗.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

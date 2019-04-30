@@ -118,6 +118,8 @@
     <ClCompile Include="1061_判断题.c" />
     <ClCompile Include="1062_最简分数.c" />
     <ClCompile Include="1063_计算谱半径.c" />
+    <ClCompile Include="1064_朋友数.c" />
+    <ClCompile Include="1065_单身狗.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

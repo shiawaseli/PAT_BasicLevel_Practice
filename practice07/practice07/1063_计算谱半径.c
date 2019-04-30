@@ -4,7 +4,7 @@
 #include<math.h>
 #include<stdlib.h>
 
-int main()
+int main3()
 {
 	int i, x, y, N;
 	double tmp, max = 0;
