@@ -30,5 +30,14 @@
     <ClCompile Include="1065_单身狗.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1066_图像过滤.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1067_试密码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1068_万绿丛中一点红%28XX%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

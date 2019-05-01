@@ -120,6 +120,9 @@
     <ClCompile Include="1063_计算谱半径.c" />
     <ClCompile Include="1064_朋友数.c" />
     <ClCompile Include="1065_单身狗.c" />
+    <ClCompile Include="1066_图像过滤.c" />
+    <ClCompile Include="1067_试密码.c" />
+    <ClCompile Include="1068_万绿丛中一点红%28XX%29.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
