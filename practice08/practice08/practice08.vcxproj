@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D1D2334D-3C54-4C41-BE15-D604B0AC9DA7}</ProjectGuid>
-    <RootNamespace>practice07</RootNamespace>
+    <ProjectGuid>{C1400773-03AA-4750-A574-2838F4018B77}</ProjectGuid>
+    <RootNamespace>practice08</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,16 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1061_判断题.c" />
-    <ClCompile Include="1062_最简分数.c" />
-    <ClCompile Include="1063_计算谱半径.c" />
-    <ClCompile Include="1064_朋友数.c" />
-    <ClCompile Include="1065_单身狗.c" />
-    <ClCompile Include="1066_图像过滤.c" />
-    <ClCompile Include="1067_试密码.c" />
-    <ClCompile Include="1068_万绿丛中一点红.c" />
-    <ClCompile Include="1069_微博转发抽奖.c" />
-    <ClCompile Include="1070_结绳.c" />
+    <ClCompile Include="1071_小赌怡情.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

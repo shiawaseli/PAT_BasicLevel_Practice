@@ -36,7 +36,13 @@
     <ClCompile Include="1067_试密码.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1068_万绿丛中一点红%28XX%29.c">
+    <ClCompile Include="1069_微博转发抽奖.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1070_结绳.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1068_万绿丛中一点红.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
