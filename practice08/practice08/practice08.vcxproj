@@ -116,6 +116,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1071_小赌怡情.c" />
+    <ClCompile Include="1072_开学寄语.c" />
+    <ClCompile Include="1073_多选题常见计分法.c" />
+    <ClCompile Include="1074_宇宙无敌加法器.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
