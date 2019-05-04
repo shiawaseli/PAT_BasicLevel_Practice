@@ -18,10 +18,10 @@ void Reverse(char str[])
 	}
 }
 
-int main()
+int main4()
 {
 	int i, n, tmp, temp;
-	char d[21] = { 0 }, num1[21] = { 0 }, num2[21] = { 0 }, ans[21] = { 0 };
+	char d[22] = { 0 }, num1[22] = { 0 }, num2[22] = { 0 }, ans[22] = { 0 };
 
 	scanf("%s%s%s", d, num1, num2);
 	n = strlen(d);
@@ -30,7 +30,7 @@ int main()
 	Reverse(num2);
 	for (i = 0; i < n + 1; i++)
 	{	
-		tmp = num1[i] - '0' + num2[i] - '0' + ans[i];
+		tmp = num1[i] - '0' + num2[i] - '0' + ans[i] - '0';
 		while (tmp < 0)
 		{
 			tmp += '0';
@@ -50,9 +50,10 @@ int main()
 		{
 			ans[i] += tmp;
 		}
-		else if(tmp == 0 && ans[i + 1] == '\0')
+		else if(tmp == 0 && ans[i + 1] == '\0' && num1[i + 1] == '\0' && num2[i + 1] == '\0')
 		{
 			ans[i] = '\0';
+			break;
 		}
 	}
 	Reverse(ans);

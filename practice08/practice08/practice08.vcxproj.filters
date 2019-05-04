@@ -27,5 +27,11 @@
     <ClCompile Include="1074_宇宙无敌加法器.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1075_链表元素分类.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1076_Wifi密码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
