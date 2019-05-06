@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main6()
 {
 	int N, i, ans = 0;
 	char ch[5];

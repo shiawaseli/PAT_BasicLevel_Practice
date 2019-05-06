@@ -121,6 +121,9 @@
     <ClCompile Include="1074_宇宙无敌加法器.c" />
     <ClCompile Include="1075_链表元素分类.c" />
     <ClCompile Include="1076_Wifi密码.c" />
+    <ClCompile Include="1077_互评成绩计算.c" />
+    <ClCompile Include="1078_字符串压缩与解压.c" />
+    <ClCompile Include="1079_延迟的回文数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
