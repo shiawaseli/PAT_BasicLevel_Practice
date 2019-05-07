@@ -79,7 +79,7 @@ void Delete(char num[])
 	}
 }
 
-int main()
+int main9()
 {
 	int n, i = 0;
 	char num1[1025] = { 0 }, num2[1025] = { 0 }, num3[1025] = { 0 };

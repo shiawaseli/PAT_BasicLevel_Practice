@@ -15,34 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1071_小赌怡情.c">
+    <ClCompile Include="1081_检查密码.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1072_开学寄语.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1073_多选题常见计分法.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1074_宇宙无敌加法器.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1075_链表元素分类.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1076_Wifi密码.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1077_互评成绩计算.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1078_字符串压缩与解压.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1079_延迟的回文数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1080_MOOC期终成绩.c">
+    <ClCompile Include="1082_射击比赛.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
