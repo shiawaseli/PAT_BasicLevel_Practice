@@ -9,7 +9,7 @@ typedef struct
 	int length;
 }Node;
 
-int main()
+int main2()
 {
 	int i, x, y, N;
 	Node max, min, tmp;

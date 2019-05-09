@@ -117,6 +117,12 @@
   <ItemGroup>
     <ClCompile Include="1081_检查密码.c" />
     <ClCompile Include="1082_射击比赛.c" />
+    <ClCompile Include="1083_是否存在相等的差.c" />
+    <ClCompile Include="1084_外观数列.c" />
+    <ClCompile Include="1085_PAT单位排行.c" />
+    <ClCompile Include="1086_就不告诉你.c" />
+    <ClCompile Include="1087_有多少不同的值.c" />
+    <ClCompile Include="1088_三人行.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
