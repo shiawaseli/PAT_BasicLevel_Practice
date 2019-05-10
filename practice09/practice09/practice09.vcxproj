@@ -123,6 +123,7 @@
     <ClCompile Include="1086_就不告诉你.c" />
     <ClCompile Include="1087_有多少不同的值.c" />
     <ClCompile Include="1088_三人行.c" />
+    <ClCompile Include="1089_狼人杀-简单版.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
