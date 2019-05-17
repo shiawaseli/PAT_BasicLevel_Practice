@@ -3,26 +3,20 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main9()
 {
 	int i, j, k, m, N, input[105] = { 0 }, lie[105] = { 0 };
-	char tmp;
 
 	scanf("%d", &N);
 	for (i = 0; i < N; i++)
 	{
-		getchar();
-		scanf("%c%d", &tmp, &input[i]);
-		if (tmp == '-')
-		{
-			input[i] *= -1;
-		}
+		scanf("%d", &input[i]);
 	}
-	for (i = 0; i < 5; i++)
+	for (i = 0; i < N; i++)
 	{
-		for (j = i + 1; j < 5; j++)
+		for (j = i + 1; j < N; j++)
 		{
-			for (k = 0, m = 0; k < 5; k++)
+			for (k = 0, m = 0; k < N; k++)
 			{
 				if (input[k] < 0 && (abs(input[k]) == i + 1 || abs(input[k]) == j + 1))
 				{

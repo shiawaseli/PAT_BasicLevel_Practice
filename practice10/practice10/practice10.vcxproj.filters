@@ -15,34 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1081_检查密码.c">
+    <ClCompile Include="1091_N-自守数.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1082_射击比赛.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1083_是否存在相等的差.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1084_外观数列.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1085_PAT单位排行.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1086_就不告诉你.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1087_有多少不同的值.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1088_三人行.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1089_狼人杀-简单版.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1090_危险品装箱.c">
+    <ClCompile Include="1092_最好吃的月饼.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
