@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main2()
 {
 	int i, j, k, N, M, tmp, max[1001] = { 0 }, sum[1001] = { 0 };
 

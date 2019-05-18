@@ -117,6 +117,9 @@
   <ItemGroup>
     <ClCompile Include="1091_N-自守数.c" />
     <ClCompile Include="1092_最好吃的月饼.c" />
+    <ClCompile Include="1093_字符串A+B.c" />
+    <ClCompile Include="1094_谷歌的招聘.c" />
+    <ClCompile Include="1095_解码PAT准考证.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

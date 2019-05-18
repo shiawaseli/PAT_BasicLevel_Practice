@@ -21,5 +21,14 @@
     <ClCompile Include="1092_最好吃的月饼.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1093_字符串A+B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1094_谷歌的招聘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1095_解码PAT准考证.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
